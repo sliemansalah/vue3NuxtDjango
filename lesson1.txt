@@ -1,0 +1,27 @@
+Vue3, Nuxt, Django
+
+Vue3, Django: with docker.
+perfect for busy developers.
+================================
+3 apps:
+1- admin app -> vue 2 with vuetify.
+2- seconad app-> vue 3 composition api and ambassador app
+3- Third app -> Nxut js with server side rendering.
+===================================
+all apps will use ts and admin app simple.
+All the ambassadors where need users, products, orders ->
+add, edit, delete, with pagination.
+
+when update user use vuex.
+-----------
+second app -> search, sort, getData, loadMoreItems, lazyLoading -> backend
+second app -> search, sort, getData, loadMoreItems, lazyLoading -> frontend
+===================================
+products cached, multible logins.
+generate more links and use it on checkout.
+redirect to stripe (payment)
+======================
+alot of concept fast learning.
+====================
+
+
