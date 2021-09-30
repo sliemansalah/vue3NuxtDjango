@@ -1,0 +1,8 @@
+download docker
+add Dockerfile
+add docker-compose.yaml
+add requirements.txt
+
+run => docker-compose up
+
+- 1234:8000 => 1234 from browser
